@@ -31,3 +31,11 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+
+
+*.aab
+KeyStoreDetails.txt
+AppBundle/
+KeyStore/
+secret-keys.c
